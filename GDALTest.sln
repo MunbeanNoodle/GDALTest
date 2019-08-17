@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GDALTest", "GDALTest\GDALTest.vcxproj", "{B0C36B30-4288-43D0-9FA0-6A46A7CD4080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0C36B30-4288-43D0-9FA0-6A46A7CD4080}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B0C36B30-4288-43D0-9FA0-6A46A7CD4080}.Debug|Win32.Build.0 = Debug|Win32
+		{B0C36B30-4288-43D0-9FA0-6A46A7CD4080}.Release|Win32.ActiveCfg = Release|Win32
+		{B0C36B30-4288-43D0-9FA0-6A46A7CD4080}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64C51D4C-0FBB-463C-A689-51DBF83817E5}
+	EndGlobalSection
+EndGlobal
